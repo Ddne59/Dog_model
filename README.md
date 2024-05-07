@@ -1,9 +1,9 @@
-# TX - Méthodes d'Apprentissage Profond pour l'Identification des Races de Chiens
+# TX - Deep Learning Methods for Dog Breed Identification
 
 ## Description
 
-Ce projet consiste en le développement d'une application iOS qui utilise des méthodes d'apprentissage profond pour identifier les races de chiens. L'utilisateur peut prendre une photo d'un chien et l'application sera capable de reconnaître sa race et de stocker cette information pour une utilisation ultérieure. Le projet a été réalisé dans le cadre d'un projet d'école à l'Université de Technologie de Compiègne (UTC) en 2023.
+This project involves the development of an iOS application that uses deep learning methods to identify dog breeds. Users can take a photo of a dog, and the application will be capable of recognizing its breed and storing this information for future use. The project was conducted as part of a school project at the Université de Technologie de Compiègne (UTC) in 2023.
 
-### Instalation
+### Installation
 
-Téléchargez le dataset Stanford Dog Breed à partir de [lien vers le dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/).
+Download the Stanford Dog Breed dataset from [this link](http://vision.stanford.edu/aditya86/ImageNetDogs/).
