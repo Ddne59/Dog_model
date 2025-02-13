@@ -1,0 +1,7 @@
+tensorflow==2.9
+pandas
+matplotlib
+split-folders
+pillow
+numpy==1.23
+scipy
